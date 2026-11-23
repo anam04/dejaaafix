@@ -2,7 +2,7 @@
 
 One file (`dejafix.py`), SQLite, runs in Google Colab.
 
-## Run in Colab (5 minutes)
+## Run in Colab:
 1. Upload `dejafix.py` to Colab (folder icon on the left).
 2. Cell 1: `!pip -q install google-genai`
 3. Cell 2: `%run dejafix.py` - it asks you to paste your Gemini API key (hidden box, never saved in the file).
