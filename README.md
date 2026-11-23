@@ -1,4 +1,4 @@
-# Deja Fix (basic version)
+
 
 One file (`dejafix.py`), SQLite, runs in Google Colab.
 
@@ -11,8 +11,7 @@ One file (`dejafix.py`), SQLite, runs in Google Colab.
    The saved solution is still there (file `dejafix.db`).
 
 Get a key at aistudio.google.com. Never paste it into the code or push it to GitHub.
-Models: `gemini-2.5-flash` (chat) and `gemini-embedding-001` (search); change the names at the top of the file.
-
+Models: `gemini-3.5-flash-lite` (chat) 
 ## Using it yourself
 ```python
 import dejafix as d
